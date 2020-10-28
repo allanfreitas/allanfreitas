@@ -22,7 +22,7 @@ Sou um desenvolvedor {Backend, Frontend e Mobile} e Mentor(sempre que possível)
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanfreitas&layout=compact&langs_count=8&locale=pt-BR" />
   <img src="https://github-readme-stats.vercel.app/api?username=allanfreitas&count_private=true&include_all_commits=true&locale=pt-BR" />
 </div>
----
+
 <a href="https://github.com/allanfreitas">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=allanfreitas&column=7&locale=pt-BR"/>
 </a>
